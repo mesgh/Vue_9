@@ -1,0 +1,1 @@
+.color__text{font-size:24px;text-align:left}.color__input{width:50px}.color{display:grid;grid-auto-flow:column;grid-auto-columns:1fr}.color:not(:last-child){margin-bottom:15px}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#2c3e50;width:400px;margin:100px auto 0 auto;text-align:center}input{zoom:150%}
